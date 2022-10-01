@@ -1,10 +1,6 @@
-# keycap-api
+# keyCap API
 
-| Module             | Link                                   |
-| ------------------ | -------------------------------------- |
-| Production         | https://key-cap.netlify.app            |
-| Frontend Code Repo | https://github.com/nluka/keycap-client |
-| Library Code Repo  | https://github.com/nluka/keycap-foundation    |
+Now that Heroku no longer offers free dynos, the backend component of [keyCap](https://github.com/nluka/keycap) has been scrapped.
 
 - [Servers](#servers)
 - [API Reference](#api-reference)
